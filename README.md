@@ -1,6 +1,4 @@
-# Project Title
-
-**Bus/Train Reservation System**
+# Bus/Train Reservation System
 
 
 ## Getting Started
