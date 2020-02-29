@@ -19,7 +19,7 @@ What things you need to run the project
 ### How to use the project
 
 Just click [download as zip](https://github.com/rahad-arefin/projects/archive/master.zip) & download the zip file or 
-clone it by git clone https://github.com/rahad-arefin/projects.git
+clone it by `git clone https://github.com/rahad-arefin/projects.git`
  
 Extract it & you will find a c++ file named **Reservation System.cpp**
 just double click & open it.
@@ -55,12 +55,10 @@ Follow the screenshot for output instructions
 On the time of writing this document, no bugs were discovered in the software. If you find any, please inform us about them. We would be very much happy to accept your fixes.
 
 
-###Conclusion
+### Conclusion
 At last we can say that the Bus Reservation system is the best process which is created a praiseworthy near our students and faculty's. In the time of our big occasion it can help us sit booking rapidly and arrival to our destination for our safe journey and create new era of modern science.
 
 
 ## Authors
 
 * **Rahad Arefin** - *Initial profile* - [Linkedin](https://github.com/rahad-arefin/projects)
-
-
