@@ -10,7 +10,7 @@ What are the rules, regulation and procedure for reservation
 
 ### Prerequisites
 
-What things you need to run the project
+What things you need to run the project <br>
  Download & install
 * [Codeblocks](http://www.codeblocks.org/downloads) or
 * [Visual Studio Code](https://code.visualstudio.com/Download)
