@@ -61,4 +61,4 @@ At last we can say that the Bus Reservation system is the best process which is 
 
 ## Authors
 
-* **Rahad Arefin** - *Initial profile* - [Linkedin](https://github.com/rahad-arefin/projects)
+* **Rahad Arefin** - *Initial profile* - [Linkedin](https://www.linkedin.com/in/rahad-arefin-592643132/)
