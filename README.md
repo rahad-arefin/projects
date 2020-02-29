@@ -19,7 +19,7 @@ What things you need to run the project <br>
 ### How to use the project
 
 Just click [download as zip](https://github.com/rahad-arefin/projects/archive/master.zip) & download the zip file or 
-clone it by `git clone https://github.com/rahad-arefin/projects.git`
+clone it by <br> `git clone https://github.com/rahad-arefin/projects.git`
  
 Extract it & you will find a c++ file named **Reservation System.cpp**
 just double click & open it.
